@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jonathanmtzgtz.github.io/PortFolio1/](https://jonathanmtzgtz.github.io/PortFolio1/)
 
-- 💬 Ask me about **Unity WebGL , ionic , blender**
+- 💬 Ask me about **HTML , CSS , Unity WebGL , ionic , Threejs, blender **
 
 - 📫 How to reach me **martinezxdon@gmail.com**
 
